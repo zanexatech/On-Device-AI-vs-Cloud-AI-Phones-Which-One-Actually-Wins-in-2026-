@@ -1,6 +1,7 @@
 # On-Device AI vs Cloud AI (2026)
 
 Artificial intelligence is transforming smartphones in 2026. A key question is whether AI should run directly on your device or rely on cloud processing.
+<img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/91077e6d-7b6b-430e-bc5c-51cc240fbc87" />
 
 ## Quick Summary
 - On-device AI: faster response, better privacy, works offline  
